@@ -29,7 +29,7 @@ Repositório com os arquivos SQL das aulas apresentados em sala.
 - Este material é de apoio às aulas
 - Os exemplos e explicações completas são apresentados em sala
 
-<img src="logo-lbd.png" width="25%">
+<img src="logo-pdm2.png" width="25%">
 
 ---
 
